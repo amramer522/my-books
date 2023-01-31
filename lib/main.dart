@@ -14,7 +14,8 @@ void main() {
   Bloc.observer = MyBlocObserver();
   runApp(const MyApp());
 }
-
+// hello
+// hello 2
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
